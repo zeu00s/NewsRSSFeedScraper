@@ -106,4 +106,4 @@ worksheet.set_column('A:A', 65, wrap)
 writer.save()
 
 # Opens file
-subprocess.Popen(r"C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE NewsScraper.xlsx")
+subprocess.Popen(r"C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE C:\temp\NewsScraper.xlsx")
